@@ -1,8 +1,8 @@
-# 💫 Hi, I'm Hasnain!
-- I'm a Computer Science graduate from Cal State East Bay<br>
-- I specialize in Full Stack Development and CyberSecurity (CompTIA Security+ certified)<br>
-- I'm currently learning about cloud computing as I work on side projects for my [portfolio](https://hasnainkhan01.github.io/)<br>
-- If you're interested in working with me you can reach me at: shadabhasnainkhan@gmail.com
+# 👋🏼 Hi, I'm Hasnain!
+🧑🏻‍🎓 I'm a Computer Science graduate from Cal State East Bay<br>
+👨🏻‍💻 I specialize in Full Stack Development and CyberSecurity (CompTIA Security+ certified)<br>
+💻 I'm currently learning about cloud computing as I work on side projects for my [portfolio](https://hasnainkhan01.github.io/)<br>
+✉️ If you're interested in working with me you can reach me at: shadabhasnainkhan@gmail.com
 
 
 # 💻 Tech Stack:
